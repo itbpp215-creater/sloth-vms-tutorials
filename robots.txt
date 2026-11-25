@@ -1,2 +1,8 @@
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Line
+Allow: /
+
 User-agent: *
 Disallow: /
